@@ -1,0 +1,6 @@
+C:\Users\Abraham\Desktop\EXAMEN UNIDAD 3 HUERTA\bin\Debug\EXAMEN UNIDAD 3 HUERTA.exe.config
+C:\Users\Abraham\Desktop\EXAMEN UNIDAD 3 HUERTA\bin\Debug\EXAMEN UNIDAD 3 HUERTA.exe
+C:\Users\Abraham\Desktop\EXAMEN UNIDAD 3 HUERTA\bin\Debug\EXAMEN UNIDAD 3 HUERTA.pdb
+C:\Users\Abraham\Desktop\EXAMEN UNIDAD 3 HUERTA\obj\Debug\EXAMEN UNIDAD 3 HUERTA.csprojResolveAssemblyReference.cache
+C:\Users\Abraham\Desktop\EXAMEN UNIDAD 3 HUERTA\obj\Debug\EXAMEN UNIDAD 3 HUERTA.exe
+C:\Users\Abraham\Desktop\EXAMEN UNIDAD 3 HUERTA\obj\Debug\EXAMEN UNIDAD 3 HUERTA.pdb
